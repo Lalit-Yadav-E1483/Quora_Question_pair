@@ -1,0 +1,10 @@
+**/data
+**/**/data
+**/model
+**/**/model
+**/glove_vectors
+**/**/glove_vectors
+**/*.csv
+**/**/*.csv
+**/tmp
+**/**/tmp
